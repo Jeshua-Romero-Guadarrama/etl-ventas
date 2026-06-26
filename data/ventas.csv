@@ -1,0 +1,1001 @@
+fecha,producto,monto,region
+1/5/2019,Health and beauty,548.9715,Yangon
+3/8/2019,Electronic accessories,80.22,Naypyitaw
+3/3/2019,Home and lifestyle,340.5255,Yangon
+1/27/2019,Health and beauty,489.048,Yangon
+2/8/2019,Sports and travel,634.3785,Yangon
+3/25/2019,Electronic accessories,627.6165,Naypyitaw
+2/25/2019,Electronic accessories,433.692,Yangon
+2/24/2019,Home and lifestyle,772.38,Naypyitaw
+1/10/2019,Health and beauty,76.146,Yangon
+2/20/2019,Food and beverages,172.746,Mandalay
+2/6/2019,Fashion accessories,60.816,Mandalay
+3/9/2019,Electronic accessories,107.142,Mandalay
+2/12/2019,Electronic accessories,246.4875,Yangon
+2/7/2019,Food and beverages,453.495,Yangon
+3/29/2019,Health and beauty,749.49,Yangon
+1/15/2019,Sports and travel,590.436,Mandalay
+3/11/2019,Health and beauty,506.6355,Yangon
+1/1/2019,Sports and travel,457.443,Yangon
+1/21/2019,Food and beverages,172.2105,Yangon
+3/11/2019,Home and lifestyle,84.63,Mandalay
+2/25/2019,Electronic accessories,451.71,Naypyitaw
+3/5/2019,Health and beauty,277.137,Mandalay
+3/15/2019,Home and lifestyle,69.72,Mandalay
+2/17/2019,Electronic accessories,181.44,Yangon
+3/2/2019,Sports and travel,279.1845,Yangon
+3/22/2019,Home and lifestyle,441.756,Yangon
+2/8/2019,Fashion accessories,35.196,Mandalay
+3/10/2019,Fashion accessories,184.107,Yangon
+1/25/2019,Food and beverages,463.89,Mandalay
+3/15/2019,Health and beauty,235.2105,Yangon
+2/25/2019,Fashion accessories,494.1825,Mandalay
+1/28/2019,Sports and travel,737.7615,Mandalay
+1/10/2019,Sports and travel,703.752,Mandalay
+3/15/2019,Health and beauty,202.818,Yangon
+2/6/2019,Food and beverages,417.564,Naypyitaw
+1/7/2019,Sports and travel,71.526,Naypyitaw
+3/10/2019,Sports and travel,328.755,Yangon
+1/15/2019,Electronic accessories,575.316,Yangon
+3/23/2019,Health and beauty,461.328,Naypyitaw
+3/3/2019,Home and lifestyle,253.008,Mandalay
+1/17/2019,Home and lifestyle,91.056,Mandalay
+2/2/2019,Home and lifestyle,117.831,Naypyitaw
+2/8/2019,Sports and travel,435.456,Mandalay
+3/4/2019,Food and beverages,829.08,Naypyitaw
+3/16/2019,Health and beauty,32.277,Naypyitaw
+3/9/2019,Electronic accessories,394.632,Mandalay
+2/27/2019,Health and beauty,535.7205,Mandalay
+2/6/2019,Food and beverages,189.0945,Mandalay
+2/10/2019,Electronic accessories,119.259,Mandalay
+3/19/2019,Fashion accessories,867.615,Naypyitaw
+2/3/2019,Food and beverages,671.79,Naypyitaw
+2/10/2019,Food and beverages,234.0975,Yangon
+3/22/2019,Fashion accessories,75.054,Mandalay
+1/25/2019,Fashion accessories,16.2015,Naypyitaw
+3/7/2019,Home and lifestyle,33.936,Mandalay
+2/28/2019,Electronic accessories,722.232,Naypyitaw
+3/27/2019,Home and lifestyle,93.114,Yangon
+2/7/2019,Health and beauty,752.64,Yangon
+1/20/2019,Home and lifestyle,759.675,Yangon
+3/12/2019,Electronic accessories,192.843,Naypyitaw
+2/15/2019,Sports and travel,77.931,Naypyitaw
+2/24/2019,Home and lifestyle,351.099,Naypyitaw
+2/3/2019,Sports and travel,520.4115,Mandalay
+3/6/2019,Sports and travel,166.005,Yangon
+2/14/2019,Health and beauty,318.108,Mandalay
+3/13/2019,Health and beauty,166.635,Yangon
+2/10/2019,Health and beauty,70.287,Naypyitaw
+1/7/2019,Fashion accessories,614.943,Mandalay
+1/24/2019,Sports and travel,827.085,Yangon
+2/2/2019,Health and beauty,19.2465,Yangon
+1/6/2019,Food and beverages,939.54,Naypyitaw
+2/11/2019,Fashion accessories,652.26,Naypyitaw
+3/5/2019,Food and beverages,152.838,Mandalay
+3/9/2019,Electronic accessories,478.233,Naypyitaw
+1/22/2019,Home and lifestyle,705.6315,Yangon
+1/13/2019,Electronic accessories,437.325,Naypyitaw
+1/9/2019,Fashion accessories,463.428,Naypyitaw
+1/12/2019,Fashion accessories,189.0945,Yangon
+3/5/2019,Food and beverages,822.255,Naypyitaw
+1/22/2019,Health and beauty,106.995,Naypyitaw
+1/21/2019,Health and beauty,624.897,Naypyitaw
+1/26/2019,Food and beverages,304.542,Mandalay
+1/23/2019,Food and beverages,161.7,Naypyitaw
+2/23/2019,Food and beverages,337.512,Naypyitaw
+3/9/2019,Sports and travel,256.7775,Naypyitaw
+3/5/2019,Sports and travel,610.491,Naypyitaw
+3/25/2019,Fashion accessories,401.73,Naypyitaw
+3/27/2019,Food and beverages,362.943,Yangon
+1/2/2019,Sports and travel,44.5935,Yangon
+2/27/2019,Health and beauty,485.037,Mandalay
+1/23/2019,Home and lifestyle,198.996,Naypyitaw
+1/26/2019,Sports and travel,471.03,Naypyitaw
+1/10/2019,Sports and travel,161.553,Yangon
+3/12/2019,Health and beauty,608.202,Mandalay
+2/6/2019,Health and beauty,94.2375,Naypyitaw
+3/8/2019,Electronic accessories,102.018,Yangon
+3/29/2019,Health and beauty,922.635,Mandalay
+2/9/2019,Electronic accessories,78.435,Naypyitaw
+3/23/2019,Food and beverages,166.1625,Yangon
+3/5/2019,Home and lifestyle,521.01,Mandalay
+3/26/2019,Fashion accessories,51.1455,Naypyitaw
+3/1/2019,Fashion accessories,742.2975,Naypyitaw
+2/1/2019,Electronic accessories,218.0115,Naypyitaw
+3/28/2019,Food and beverages,367.038,Yangon
+3/19/2019,Health and beauty,223.0725,Mandalay
+1/12/2019,Electronic accessories,931.035,Yangon
+1/5/2019,Fashion accessories,172.494,Naypyitaw
+3/22/2019,Sports and travel,391.419,Yangon
+3/24/2019,Food and beverages,321.111,Naypyitaw
+3/3/2019,Electronic accessories,860.685,Naypyitaw
+2/5/2019,Sports and travel,34.629,Mandalay
+2/5/2019,Health and beauty,309.3615,Naypyitaw
+2/15/2019,Fashion accessories,535.374,Mandalay
+1/19/2019,Home and lifestyle,548.7615,Yangon
+2/1/2019,Home and lifestyle,763.4655,Naypyitaw
+3/2/2019,Fashion accessories,85.113,Naypyitaw
+3/5/2019,Fashion accessories,115.185,Mandalay
+1/16/2019,Fashion accessories,53.928,Mandalay
+2/2/2019,Food and beverages,115.08,Yangon
+1/20/2019,Home and lifestyle,112.224,Mandalay
+2/14/2019,Electronic accessories,836.304,Yangon
+1/12/2019,Sports and travel,419.832,Naypyitaw
+3/9/2019,Sports and travel,944.622,Mandalay
+3/13/2019,Home and lifestyle,536.844,Naypyitaw
+3/9/2019,Fashion accessories,474.348,Mandalay
+3/10/2019,Home and lifestyle,688.6215,Yangon
+1/27/2019,Sports and travel,169.3125,Yangon
+1/8/2019,Fashion accessories,299.8485,Naypyitaw
+1/8/2019,Food and beverages,575.736,Naypyitaw
+2/8/2019,Sports and travel,853.146,Mandalay
+1/25/2019,Fashion accessories,291.207,Mandalay
+3/6/2019,Sports and travel,580.419,Yangon
+2/10/2019,Sports and travel,146.328,Mandalay
+2/17/2019,Electronic accessories,550.935,Mandalay
+3/8/2019,Health and beauty,512.19,Naypyitaw
+2/18/2019,Fashion accessories,284.193,Naypyitaw
+1/18/2019,Electronic accessories,138.1275,Yangon
+2/18/2019,Home and lifestyle,216.846,Yangon
+2/16/2019,Sports and travel,545.055,Mandalay
+3/16/2019,Sports and travel,609.0,Yangon
+1/23/2019,Sports and travel,942.9,Naypyitaw
+1/25/2019,Health and beauty,950.25,Naypyitaw
+2/5/2019,Health and beauty,720.3,Naypyitaw
+2/22/2019,Food and beverages,31.9305,Naypyitaw
+1/21/2019,Home and lifestyle,491.085,Yangon
+3/8/2019,Health and beauty,291.438,Naypyitaw
+2/10/2019,Fashion accessories,316.47,Yangon
+3/19/2019,Health and beauty,277.788,Naypyitaw
+3/6/2019,Home and lifestyle,603.624,Mandalay
+3/27/2019,Health and beauty,272.664,Yangon
+3/23/2019,Fashion accessories,384.468,Mandalay
+3/11/2019,Sports and travel,254.016,Naypyitaw
+1/29/2019,Fashion accessories,786.618,Yangon
+2/7/2019,Food and beverages,103.824,Naypyitaw
+1/28/2019,Sports and travel,680.148,Naypyitaw
+2/20/2019,Food and beverages,484.5225,Yangon
+1/4/2019,Electronic accessories,75.7785,Mandalay
+3/7/2019,Home and lifestyle,263.97,Mandalay
+3/30/2019,Health and beauty,918.729,Mandalay
+3/27/2019,Sports and travel,588.357,Mandalay
+1/19/2019,Food and beverages,362.712,Naypyitaw
+2/25/2019,Sports and travel,66.8745,Yangon
+3/13/2019,Food and beverages,336.5565,Yangon
+1/30/2019,Sports and travel,160.44,Naypyitaw
+2/20/2019,Food and beverages,418.95,Mandalay
+2/25/2019,Health and beauty,357.588,Mandalay
+1/16/2019,Home and lifestyle,1003.59,Naypyitaw
+2/8/2019,Fashion accessories,1039.29,Yangon
+1/19/2019,Food and beverages,323.064,Yangon
+2/1/2019,Sports and travel,510.972,Yangon
+1/3/2019,Health and beauty,367.5525,Yangon
+1/26/2019,Food and beverages,420.2625,Mandalay
+3/3/2019,Electronic accessories,175.14,Naypyitaw
+1/19/2019,Electronic accessories,333.207,Mandalay
+1/18/2019,Food and beverages,166.236,Mandalay
+3/21/2019,Home and lifestyle,319.788,Yangon
+3/3/2019,Food and beverages,186.228,Yangon
+2/13/2019,Fashion accessories,165.4485,Naypyitaw
+3/23/2019,Food and beverages,465.444,Yangon
+1/28/2019,Health and beauty,273.42,Naypyitaw
+2/9/2019,Fashion accessories,472.311,Naypyitaw
+1/23/2019,Food and beverages,323.148,Naypyitaw
+3/23/2019,Sports and travel,162.75,Yangon
+1/25/2019,Health and beauty,288.204,Naypyitaw
+3/4/2019,Sports and travel,90.699,Yangon
+3/5/2019,Food and beverages,56.952,Mandalay
+3/3/2019,Home and lifestyle,793.716,Mandalay
+2/8/2019,Home and lifestyle,195.174,Mandalay
+2/10/2019,Home and lifestyle,77.7735,Yangon
+1/28/2019,Home and lifestyle,293.202,Naypyitaw
+2/11/2019,Home and lifestyle,242.676,Mandalay
+1/15/2019,Fashion accessories,154.392,Mandalay
+3/16/2019,Food and beverages,829.71,Naypyitaw
+1/26/2019,Home and lifestyle,107.31,Mandalay
+3/19/2019,Electronic accessories,171.7275,Yangon
+1/13/2019,Fashion accessories,78.0045,Naypyitaw
+3/26/2019,Health and beauty,91.77,Naypyitaw
+3/23/2019,Home and lifestyle,26.5545,Yangon
+3/12/2019,Health and beauty,174.3,Naypyitaw
+2/17/2019,Food and beverages,374.7975,Naypyitaw
+1/29/2019,Sports and travel,120.645,Naypyitaw
+3/15/2019,Electronic accessories,241.458,Mandalay
+1/14/2019,Electronic accessories,451.3635,Naypyitaw
+2/6/2019,Health and beauty,271.95,Mandalay
+2/15/2019,Home and lifestyle,93.2925,Mandalay
+1/3/2019,Health and beauty,217.6335,Yangon
+1/4/2019,Electronic accessories,629.8425,Naypyitaw
+3/18/2019,Home and lifestyle,299.565,Naypyitaw
+3/28/2019,Fashion accessories,95.6655,Mandalay
+3/2/2019,Electronic accessories,942.4485,Mandalay
+1/25/2019,Electronic accessories,247.8735,Yangon
+1/16/2019,Food and beverages,881.307,Naypyitaw
+3/20/2019,Home and lifestyle,484.89,Mandalay
+1/4/2019,Sports and travel,146.223,Mandalay
+3/11/2019,Sports and travel,217.6335,Mandalay
+3/22/2019,Home and lifestyle,19.194,Yangon
+3/24/2019,Sports and travel,130.0425,Mandalay
+2/21/2019,Electronic accessories,298.116,Yangon
+2/12/2019,Fashion accessories,796.908,Mandalay
+3/10/2019,Food and beverages,180.621,Mandalay
+1/31/2019,Electronic accessories,285.705,Mandalay
+3/6/2019,Food and beverages,456.288,Mandalay
+2/17/2019,Electronic accessories,62.0025,Naypyitaw
+2/21/2019,Fashion accessories,13.167,Naypyitaw
+3/20/2019,Food and beverages,90.825,Yangon
+1/11/2019,Sports and travel,183.036,Naypyitaw
+1/26/2019,Health and beauty,655.5465,Mandalay
+1/31/2019,Electronic accessories,155.652,Naypyitaw
+2/26/2019,Electronic accessories,571.41,Mandalay
+3/11/2019,Home and lifestyle,532.728,Yangon
+1/26/2019,Fashion accessories,170.877,Mandalay
+3/12/2019,Electronic accessories,33.3585,Mandalay
+2/11/2019,Health and beauty,794.6505,Mandalay
+2/21/2019,Fashion accessories,310.044,Mandalay
+3/9/2019,Health and beauty,545.37,Yangon
+1/20/2019,Sports and travel,195.594,Yangon
+1/28/2019,Health and beauty,91.4025,Naypyitaw
+3/5/2019,Fashion accessories,232.155,Naypyitaw
+3/2/2019,Electronic accessories,69.405,Mandalay
+1/11/2019,Fashion accessories,94.1745,Yangon
+1/11/2019,Food and beverages,235.683,Yangon
+3/11/2019,Health and beauty,125.517,Yangon
+2/28/2019,Fashion accessories,195.72,Naypyitaw
+1/5/2019,Home and lifestyle,263.13,Yangon
+2/2/2019,Home and lifestyle,788.508,Mandalay
+1/1/2019,Home and lifestyle,399.756,Yangon
+2/9/2019,Electronic accessories,256.41,Mandalay
+1/23/2019,Fashion accessories,94.185,Yangon
+1/7/2019,Electronic accessories,326.424,Yangon
+1/14/2019,Food and beverages,536.991,Mandalay
+2/2/2019,Food and beverages,439.8975,Mandalay
+3/17/2019,Fashion accessories,369.495,Naypyitaw
+3/2/2019,Sports and travel,30.219,Naypyitaw
+3/16/2019,Home and lifestyle,99.75,Yangon
+1/6/2019,Home and lifestyle,494.76,Yangon
+1/29/2019,Fashion accessories,137.004,Mandalay
+1/31/2019,Electronic accessories,69.6675,Yangon
+2/5/2019,Home and lifestyle,163.233,Yangon
+2/13/2019,Electronic accessories,135.45,Yangon
+2/7/2019,Electronic accessories,276.948,Naypyitaw
+3/19/2019,Electronic accessories,709.317,Yangon
+3/7/2019,Fashion accessories,69.09,Naypyitaw
+3/13/2019,Fashion accessories,160.86,Mandalay
+2/9/2019,Sports and travel,233.52,Yangon
+2/26/2019,Sports and travel,57.1725,Mandalay
+3/12/2019,Sports and travel,723.24,Yangon
+3/14/2019,Home and lifestyle,148.974,Naypyitaw
+1/8/2019,Food and beverages,783.3,Mandalay
+1/5/2019,Home and lifestyle,297.108,Yangon
+1/4/2019,Home and lifestyle,373.17,Yangon
+3/6/2019,Sports and travel,354.0075,Mandalay
+1/3/2019,Health and beauty,44.352,Naypyitaw
+1/7/2019,Home and lifestyle,203.553,Yangon
+1/27/2019,Home and lifestyle,25.263,Yangon
+2/26/2019,Health and beauty,628.173,Mandalay
+1/7/2019,Fashion accessories,352.5795,Mandalay
+1/7/2019,Home and lifestyle,229.11,Naypyitaw
+2/2/2019,Fashion accessories,400.764,Naypyitaw
+3/20/2019,Fashion accessories,745.395,Naypyitaw
+3/20/2019,Sports and travel,462.21,Yangon
+2/15/2019,Home and lifestyle,587.664,Yangon
+3/6/2019,Home and lifestyle,38.85,Naypyitaw
+1/6/2019,Sports and travel,16.107,Yangon
+3/4/2019,Health and beauty,628.929,Yangon
+3/12/2019,Health and beauty,200.214,Yangon
+2/20/2019,Health and beauty,350.07,Mandalay
+3/24/2019,Home and lifestyle,78.603,Naypyitaw
+1/31/2019,Sports and travel,224.4375,Naypyitaw
+1/25/2019,Food and beverages,356.5485,Mandalay
+2/3/2019,Home and lifestyle,697.368,Yangon
+1/24/2019,Electronic accessories,423.15,Mandalay
+3/14/2019,Electronic accessories,204.6975,Naypyitaw
+2/18/2019,Electronic accessories,65.604,Yangon
+1/21/2019,Food and beverages,76.356,Yangon
+3/13/2019,Health and beauty,190.155,Mandalay
+3/3/2019,Electronic accessories,272.58,Naypyitaw
+3/29/2019,Electronic accessories,121.128,Naypyitaw
+1/10/2019,Home and lifestyle,493.794,Yangon
+1/25/2019,Home and lifestyle,252.042,Yangon
+1/19/2019,Home and lifestyle,93.0405,Naypyitaw
+1/2/2019,Fashion accessories,209.622,Naypyitaw
+3/12/2019,Health and beauty,40.9605,Mandalay
+2/25/2019,Food and beverages,51.0405,Naypyitaw
+3/18/2019,Electronic accessories,214.998,Yangon
+2/23/2019,Electronic accessories,125.664,Mandalay
+3/26/2019,Electronic accessories,530.67,Yangon
+3/30/2019,Sports and travel,295.6905,Yangon
+2/17/2019,Home and lifestyle,745.836,Yangon
+3/21/2019,Electronic accessories,83.412,Yangon
+3/5/2019,Fashion accessories,172.011,Yangon
+1/31/2019,Sports and travel,503.559,Mandalay
+2/5/2019,Fashion accessories,145.593,Naypyitaw
+2/1/2019,Food and beverages,74.7075,Yangon
+3/7/2019,Health and beauty,146.9475,Yangon
+2/10/2019,Electronic accessories,820.365,Naypyitaw
+2/14/2019,Food and beverages,208.677,Naypyitaw
+2/9/2019,Food and beverages,66.402,Naypyitaw
+1/10/2019,Electronic accessories,392.6475,Naypyitaw
+3/11/2019,Health and beauty,218.0745,Naypyitaw
+2/18/2019,Health and beauty,185.094,Naypyitaw
+2/26/2019,Food and beverages,216.6885,Naypyitaw
+1/18/2019,Health and beauty,41.391,Naypyitaw
+2/15/2019,Health and beauty,96.138,Yangon
+3/8/2019,Fashion accessories,324.2925,Yangon
+1/17/2019,Home and lifestyle,135.576,Yangon
+3/12/2019,Sports and travel,410.508,Mandalay
+3/9/2019,Food and beverages,523.845,Yangon
+3/12/2019,Food and beverages,395.892,Naypyitaw
+1/25/2019,Health and beauty,214.746,Mandalay
+3/25/2019,Electronic accessories,152.712,Yangon
+2/7/2019,Home and lifestyle,208.089,Mandalay
+2/17/2019,Food and beverages,103.635,Yangon
+2/3/2019,Fashion accessories,404.355,Yangon
+3/14/2019,Food and beverages,49.308,Yangon
+3/24/2019,Sports and travel,77.175,Naypyitaw
+3/21/2019,Electronic accessories,149.3625,Yangon
+3/19/2019,Fashion accessories,721.98,Yangon
+2/24/2019,Sports and travel,365.085,Mandalay
+3/28/2019,Electronic accessories,150.0975,Naypyitaw
+2/5/2019,Food and beverages,404.649,Mandalay
+2/10/2019,Electronic accessories,151.4835,Mandalay
+3/5/2019,Health and beauty,411.3795,Mandalay
+2/15/2019,Health and beauty,565.215,Mandalay
+1/30/2019,Food and beverages,509.4075,Naypyitaw
+2/14/2019,Sports and travel,140.6475,Yangon
+2/27/2019,Fashion accessories,736.4385,Yangon
+2/4/2019,Electronic accessories,75.5475,Yangon
+1/20/2019,Home and lifestyle,749.7,Naypyitaw
+3/28/2019,Electronic accessories,191.247,Yangon
+2/27/2019,Health and beauty,141.75,Mandalay
+2/15/2019,Fashion accessories,1042.65,Naypyitaw
+1/26/2019,Electronic accessories,379.9215,Yangon
+3/14/2019,Fashion accessories,402.2655,Mandalay
+3/2/2019,Home and lifestyle,255.15,Mandalay
+3/4/2019,Electronic accessories,31.752,Naypyitaw
+1/7/2019,Food and beverages,374.388,Mandalay
+3/8/2019,Fashion accessories,394.275,Naypyitaw
+1/9/2019,Sports and travel,1002.12,Naypyitaw
+3/1/2019,Electronic accessories,86.625,Mandalay
+3/16/2019,Sports and travel,78.7185,Mandalay
+2/17/2019,Food and beverages,680.064,Yangon
+2/27/2019,Food and beverages,793.548,Naypyitaw
+3/7/2019,Food and beverages,209.559,Naypyitaw
+1/21/2019,Home and lifestyle,461.286,Yangon
+2/19/2019,Food and beverages,173.208,Naypyitaw
+1/6/2019,Fashion accessories,343.056,Naypyitaw
+3/14/2019,Electronic accessories,484.974,Naypyitaw
+3/24/2019,Home and lifestyle,276.948,Yangon
+1/27/2019,Sports and travel,150.78,Naypyitaw
+3/6/2019,Electronic accessories,203.175,Yangon
+2/2/2019,Electronic accessories,193.011,Mandalay
+1/25/2019,Fashion accessories,128.016,Mandalay
+3/14/2019,Home and lifestyle,441.693,Naypyitaw
+1/29/2019,Fashion accessories,265.104,Naypyitaw
+1/3/2019,Home and lifestyle,352.2225,Yangon
+1/14/2019,Fashion accessories,507.675,Yangon
+1/5/2019,Home and lifestyle,334.341,Mandalay
+2/22/2019,Sports and travel,701.8515,Naypyitaw
+2/6/2019,Fashion accessories,407.316,Naypyitaw
+1/30/2019,Electronic accessories,99.33,Mandalay
+1/11/2019,Sports and travel,345.786,Yangon
+3/19/2019,Electronic accessories,55.881,Naypyitaw
+1/14/2019,Food and beverages,523.3725,Mandalay
+3/1/2019,Food and beverages,314.538,Naypyitaw
+1/6/2019,Food and beverages,214.935,Yangon
+1/31/2019,Sports and travel,79.611,Mandalay
+3/11/2019,Food and beverages,294.651,Naypyitaw
+2/20/2019,Health and beauty,339.36,Yangon
+1/27/2019,Fashion accessories,510.9615,Naypyitaw
+3/10/2019,Food and beverages,133.917,Mandalay
+2/15/2019,Fashion accessories,253.512,Naypyitaw
+1/26/2019,Fashion accessories,398.475,Mandalay
+2/13/2019,Electronic accessories,80.661,Yangon
+3/9/2019,Sports and travel,548.73,Yangon
+3/6/2019,Health and beauty,83.727,Yangon
+1/24/2019,Health and beauty,406.875,Yangon
+3/13/2019,Food and beverages,284.9175,Yangon
+3/15/2019,Home and lifestyle,128.4255,Mandalay
+3/5/2019,Health and beauty,258.678,Mandalay
+3/4/2019,Electronic accessories,181.818,Mandalay
+3/25/2019,Food and beverages,248.409,Naypyitaw
+3/12/2019,Home and lifestyle,194.124,Naypyitaw
+2/4/2019,Home and lifestyle,14.679,Naypyitaw
+2/22/2019,Fashion accessories,208.6875,Mandalay
+2/16/2019,Fashion accessories,718.7565,Naypyitaw
+1/19/2019,Sports and travel,282.492,Yangon
+1/11/2019,Food and beverages,72.3975,Yangon
+1/4/2019,Fashion accessories,288.582,Mandalay
+3/4/2019,Home and lifestyle,237.426,Yangon
+1/28/2019,Fashion accessories,125.055,Naypyitaw
+1/2/2019,Health and beauty,359.205,Mandalay
+1/25/2019,Sports and travel,45.927,Mandalay
+1/4/2019,Health and beauty,110.0925,Yangon
+3/10/2019,Sports and travel,81.396,Yangon
+3/22/2019,Home and lifestyle,427.812,Yangon
+1/25/2019,Health and beauty,100.9155,Mandalay
+1/8/2019,Home and lifestyle,190.596,Naypyitaw
+1/22/2019,Health and beauty,85.5855,Naypyitaw
+1/12/2019,Health and beauty,120.162,Mandalay
+2/4/2019,Electronic accessories,185.367,Yangon
+3/28/2019,Food and beverages,121.59,Naypyitaw
+1/23/2019,Electronic accessories,264.7575,Naypyitaw
+2/8/2019,Fashion accessories,1020.705,Naypyitaw
+3/19/2019,Fashion accessories,213.528,Mandalay
+3/9/2019,Fashion accessories,17.094,Naypyitaw
+1/2/2019,Fashion accessories,383.7645,Mandalay
+1/21/2019,Health and beauty,390.7995,Yangon
+3/20/2019,Food and beverages,65.7405,Mandalay
+2/27/2019,Sports and travel,353.1675,Mandalay
+3/8/2019,Home and lifestyle,951.825,Yangon
+1/31/2019,Fashion accessories,145.068,Mandalay
+3/8/2019,Food and beverages,90.867,Naypyitaw
+1/13/2019,Electronic accessories,147.798,Yangon
+3/9/2019,Fashion accessories,702.219,Mandalay
+2/22/2019,Fashion accessories,49.812,Mandalay
+3/19/2019,Sports and travel,937.818,Naypyitaw
+1/20/2019,Sports and travel,348.306,Naypyitaw
+3/8/2019,Home and lifestyle,214.137,Yangon
+3/8/2019,Food and beverages,71.568,Naypyitaw
+2/7/2019,Electronic accessories,343.224,Naypyitaw
+1/15/2019,Food and beverages,91.56,Naypyitaw
+3/22/2019,Sports and travel,742.812,Mandalay
+1/15/2019,Home and lifestyle,843.0345,Yangon
+1/8/2019,Fashion accessories,13.419,Naypyitaw
+1/15/2019,Sports and travel,140.385,Yangon
+1/28/2019,Health and beauty,20.1075,Mandalay
+2/14/2019,Food and beverages,290.43,Naypyitaw
+3/10/2019,Fashion accessories,144.081,Naypyitaw
+1/12/2019,Health and beauty,28.4235,Mandalay
+3/26/2019,Sports and travel,41.076,Mandalay
+1/1/2019,Electronic accessories,470.673,Mandalay
+1/2/2019,Electronic accessories,138.663,Mandalay
+3/16/2019,Food and beverages,333.9525,Yangon
+3/3/2019,Health and beauty,26.25,Yangon
+1/31/2019,Electronic accessories,87.234,Yangon
+2/13/2019,Fashion accessories,155.19,Mandalay
+2/15/2019,Food and beverages,731.43,Mandalay
+2/7/2019,Electronic accessories,833.595,Mandalay
+1/27/2019,Electronic accessories,488.985,Naypyitaw
+2/23/2019,Food and beverages,37.6845,Naypyitaw
+2/3/2019,Food and beverages,212.73,Naypyitaw
+3/3/2019,Food and beverages,767.025,Mandalay
+2/3/2019,Sports and travel,310.59,Naypyitaw
+3/17/2019,Food and beverages,23.751,Naypyitaw
+3/28/2019,Food and beverages,269.535,Yangon
+3/2/2019,Sports and travel,572.775,Naypyitaw
+2/8/2019,Health and beauty,273.0525,Naypyitaw
+3/22/2019,Sports and travel,233.226,Mandalay
+2/9/2019,Food and beverages,22.659,Naypyitaw
+2/15/2019,Electronic accessories,103.782,Naypyitaw
+1/23/2019,Home and lifestyle,527.751,Naypyitaw
+1/25/2019,Sports and travel,168.21,Yangon
+2/2/2019,Fashion accessories,452.865,Yangon
+3/30/2019,Health and beauty,609.588,Mandalay
+3/30/2019,Electronic accessories,338.31,Yangon
+2/25/2019,Health and beauty,205.317,Yangon
+3/18/2019,Sports and travel,174.615,Yangon
+3/7/2019,Electronic accessories,353.094,Naypyitaw
+3/16/2019,Sports and travel,360.885,Mandalay
+1/29/2019,Electronic accessories,40.53,Yangon
+2/2/2019,Food and beverages,554.148,Naypyitaw
+2/15/2019,Electronic accessories,344.4,Naypyitaw
+1/8/2019,Sports and travel,194.985,Yangon
+2/12/2019,Home and lifestyle,633.99,Mandalay
+1/1/2019,Sports and travel,388.29,Naypyitaw
+3/21/2019,Sports and travel,207.858,Mandalay
+2/28/2019,Fashion accessories,431.445,Mandalay
+3/23/2019,Fashion accessories,156.03,Yangon
+1/30/2019,Home and lifestyle,24.108,Naypyitaw
+2/4/2019,Home and lifestyle,734.076,Mandalay
+3/13/2019,Fashion accessories,72.87,Mandalay
+3/15/2019,Fashion accessories,206.43,Yangon
+3/5/2019,Health and beauty,212.688,Mandalay
+3/5/2019,Home and lifestyle,127.26,Naypyitaw
+2/26/2019,Fashion accessories,209.769,Mandalay
+3/20/2019,Sports and travel,637.728,Mandalay
+1/1/2019,Electronic accessories,132.762,Naypyitaw
+1/27/2019,Food and beverages,568.512,Naypyitaw
+1/21/2019,Sports and travel,103.0365,Mandalay
+2/2/2019,Sports and travel,432.768,Yangon
+2/3/2019,Sports and travel,77.6685,Mandalay
+1/5/2019,Fashion accessories,33.495,Naypyitaw
+1/27/2019,Home and lifestyle,145.74,Naypyitaw
+3/25/2019,Sports and travel,195.951,Mandalay
+2/25/2019,Sports and travel,92.8725,Mandalay
+1/28/2019,Electronic accessories,203.112,Yangon
+1/8/2019,Sports and travel,152.775,Mandalay
+1/29/2019,Food and beverages,529.515,Mandalay
+3/29/2019,Health and beauty,321.7725,Mandalay
+2/9/2019,Home and lifestyle,100.485,Naypyitaw
+1/16/2019,Sports and travel,666.939,Mandalay
+1/5/2019,Home and lifestyle,225.2775,Yangon
+1/27/2019,Fashion accessories,398.958,Yangon
+3/14/2019,Electronic accessories,731.6925,Yangon
+2/23/2019,Sports and travel,429.1665,Naypyitaw
+3/18/2019,Fashion accessories,54.0435,Naypyitaw
+3/29/2019,Health and beauty,288.015,Mandalay
+1/22/2019,Home and lifestyle,206.7975,Naypyitaw
+3/1/2019,Home and lifestyle,72.933,Yangon
+1/17/2019,Sports and travel,377.58,Naypyitaw
+3/26/2019,Electronic accessories,143.9865,Mandalay
+3/20/2019,Home and lifestyle,523.971,Naypyitaw
+2/6/2019,Home and lifestyle,235.872,Yangon
+1/1/2019,Health and beauty,132.027,Naypyitaw
+1/27/2019,Food and beverages,514.773,Yangon
+2/25/2019,Sports and travel,479.9025,Yangon
+1/16/2019,Fashion accessories,164.682,Mandalay
+1/13/2019,Fashion accessories,125.706,Mandalay
+2/7/2019,Food and beverages,570.78,Mandalay
+2/17/2019,Sports and travel,926.9505,Yangon
+2/12/2019,Health and beauty,160.209,Yangon
+1/24/2019,Fashion accessories,728.112,Yangon
+2/6/2019,Electronic accessories,240.975,Mandalay
+3/26/2019,Food and beverages,154.1295,Naypyitaw
+3/11/2019,Home and lifestyle,148.68,Yangon
+2/7/2019,Home and lifestyle,122.5245,Naypyitaw
+1/5/2019,Fashion accessories,77.658,Mandalay
+3/7/2019,Home and lifestyle,102.837,Yangon
+2/25/2019,Fashion accessories,306.81,Yangon
+2/1/2019,Food and beverages,551.124,Naypyitaw
+1/22/2019,Home and lifestyle,96.642,Yangon
+1/3/2019,Health and beauty,79.674,Naypyitaw
+2/13/2019,Sports and travel,84.756,Mandalay
+1/28/2019,Electronic accessories,118.251,Naypyitaw
+1/5/2019,Food and beverages,74.76,Mandalay
+3/19/2019,Home and lifestyle,163.002,Mandalay
+1/12/2019,Fashion accessories,308.91,Yangon
+1/7/2019,Sports and travel,575.9775,Yangon
+1/26/2019,Sports and travel,270.585,Mandalay
+1/23/2019,Electronic accessories,416.178,Yangon
+2/9/2019,Fashion accessories,180.4005,Mandalay
+2/22/2019,Fashion accessories,513.2295,Mandalay
+2/5/2019,Health and beauty,550.368,Mandalay
+3/7/2019,Electronic accessories,139.923,Naypyitaw
+3/25/2019,Electronic accessories,142.002,Yangon
+1/20/2019,Home and lifestyle,118.062,Mandalay
+2/4/2019,Fashion accessories,151.284,Mandalay
+1/30/2019,Food and beverages,1034.46,Naypyitaw
+1/2/2019,Food and beverages,262.458,Yangon
+3/29/2019,Home and lifestyle,228.123,Yangon
+3/14/2019,Electronic accessories,203.931,Mandalay
+2/11/2019,Food and beverages,936.6,Naypyitaw
+1/30/2019,Electronic accessories,356.328,Mandalay
+3/20/2019,Electronic accessories,469.413,Yangon
+3/20/2019,Fashion accessories,208.425,Mandalay
+1/17/2019,Food and beverages,852.705,Yangon
+2/3/2019,Sports and travel,517.965,Naypyitaw
+1/1/2019,Fashion accessories,621.243,Yangon
+1/10/2019,Fashion accessories,586.971,Mandalay
+3/2/2019,Sports and travel,543.753,Naypyitaw
+2/25/2019,Home and lifestyle,430.71,Mandalay
+1/29/2019,Sports and travel,280.035,Mandalay
+3/10/2019,Food and beverages,74.4555,Yangon
+1/13/2019,Food and beverages,152.019,Mandalay
+3/22/2019,Sports and travel,451.0275,Yangon
+3/1/2019,Fashion accessories,597.6285,Mandalay
+2/20/2019,Food and beverages,253.26,Mandalay
+1/14/2019,Food and beverages,133.434,Naypyitaw
+3/26/2019,Health and beauty,269.934,Yangon
+3/1/2019,Health and beauty,145.971,Mandalay
+1/7/2019,Food and beverages,85.743,Naypyitaw
+2/1/2019,Health and beauty,326.256,Yangon
+2/13/2019,Fashion accessories,195.258,Naypyitaw
+1/14/2019,Fashion accessories,75.936,Mandalay
+1/19/2019,Sports and travel,198.639,Mandalay
+3/9/2019,Health and beauty,217.182,Yangon
+3/27/2019,Food and beverages,164.871,Yangon
+2/4/2019,Sports and travel,226.065,Yangon
+3/14/2019,Fashion accessories,625.905,Naypyitaw
+3/4/2019,Health and beauty,76.755,Yangon
+3/3/2019,Health and beauty,293.139,Naypyitaw
+1/27/2019,Home and lifestyle,178.164,Naypyitaw
+2/7/2019,Sports and travel,47.859,Yangon
+2/5/2019,Sports and travel,236.88,Yangon
+3/15/2019,Sports and travel,304.92,Mandalay
+3/1/2019,Health and beauty,46.683,Mandalay
+2/15/2019,Food and beverages,164.43,Yangon
+2/17/2019,Sports and travel,440.937,Naypyitaw
+1/26/2019,Fashion accessories,193.4625,Naypyitaw
+3/24/2019,Home and lifestyle,147.672,Yangon
+1/23/2019,Electronic accessories,87.234,Naypyitaw
+1/26/2019,Fashion accessories,68.2395,Naypyitaw
+3/14/2019,Food and beverages,814.38,Naypyitaw
+3/17/2019,Sports and travel,343.413,Mandalay
+1/8/2019,Fashion accessories,381.3915,Naypyitaw
+2/8/2019,Home and lifestyle,133.35,Mandalay
+2/10/2019,Fashion accessories,394.3275,Yangon
+3/28/2019,Food and beverages,209.118,Naypyitaw
+1/23/2019,Fashion accessories,32.1405,Yangon
+1/17/2019,Food and beverages,121.569,Mandalay
+2/7/2019,Electronic accessories,30.408,Yangon
+3/9/2019,Food and beverages,935.2665,Naypyitaw
+1/24/2019,Fashion accessories,293.643,Mandalay
+1/19/2019,Sports and travel,84.9765,Naypyitaw
+2/3/2019,Food and beverages,708.225,Yangon
+3/20/2019,Sports and travel,365.904,Yangon
+1/13/2019,Sports and travel,457.38,Mandalay
+3/14/2019,Electronic accessories,461.5275,Naypyitaw
+1/23/2019,Food and beverages,620.739,Yangon
+2/7/2019,Fashion accessories,273.798,Naypyitaw
+3/28/2019,Food and beverages,225.792,Yangon
+3/20/2019,Food and beverages,96.1905,Yangon
+1/17/2019,Home and lifestyle,695.2365,Mandalay
+1/12/2019,Fashion accessories,874.125,Mandalay
+2/16/2019,Fashion accessories,95.9175,Mandalay
+1/26/2019,Food and beverages,165.648,Mandalay
+3/9/2019,Sports and travel,127.827,Yangon
+3/14/2019,Health and beauty,867.09,Mandalay
+1/25/2019,Home and lifestyle,167.895,Yangon
+1/26/2019,Fashion accessories,12.6945,Yangon
+1/19/2019,Sports and travel,673.995,Yangon
+3/5/2019,Electronic accessories,246.6765,Yangon
+1/15/2019,Food and beverages,175.917,Yangon
+3/18/2019,Home and lifestyle,314.055,Mandalay
+3/20/2019,Food and beverages,251.7165,Mandalay
+1/15/2019,Health and beauty,697.935,Mandalay
+3/3/2019,Health and beauty,212.7825,Yangon
+3/19/2019,Electronic accessories,48.51,Naypyitaw
+3/8/2019,Food and beverages,92.5575,Mandalay
+2/27/2019,Fashion accessories,165.123,Mandalay
+2/23/2019,Food and beverages,311.1885,Mandalay
+3/19/2019,Electronic accessories,743.82,Naypyitaw
+3/27/2019,Electronic accessories,116.907,Mandalay
+3/30/2019,Food and beverages,609.168,Naypyitaw
+2/16/2019,Electronic accessories,63.2625,Naypyitaw
+1/18/2019,Home and lifestyle,182.952,Yangon
+3/30/2019,Health and beauty,442.323,Naypyitaw
+3/20/2019,Fashion accessories,35.3115,Mandalay
+1/16/2019,Sports and travel,32.529,Naypyitaw
+2/24/2019,Electronic accessories,259.77,Naypyitaw
+1/15/2019,Electronic accessories,397.215,Mandalay
+1/22/2019,Health and beauty,351.603,Mandalay
+2/3/2019,Home and lifestyle,764.19,Yangon
+3/6/2019,Sports and travel,352.674,Mandalay
+2/16/2019,Fashion accessories,252.756,Mandalay
+3/14/2019,Electronic accessories,49.4235,Yangon
+2/27/2019,Electronic accessories,104.6745,Naypyitaw
+1/18/2019,Fashion accessories,277.6725,Yangon
+1/29/2019,Sports and travel,146.6325,Yangon
+2/26/2019,Fashion accessories,58.2225,Yangon
+2/3/2019,Sports and travel,135.3555,Mandalay
+1/16/2019,Sports and travel,125.979,Naypyitaw
+3/24/2019,Fashion accessories,370.125,Mandalay
+2/12/2019,Food and beverages,914.55,Naypyitaw
+2/21/2019,Sports and travel,207.48,Naypyitaw
+2/4/2019,Fashion accessories,204.246,Yangon
+2/20/2019,Food and beverages,181.881,Mandalay
+2/23/2019,Health and beauty,75.474,Mandalay
+2/16/2019,Health and beauty,300.573,Naypyitaw
+1/17/2019,Sports and travel,85.302,Mandalay
+1/14/2019,Fashion accessories,588.42,Yangon
+3/30/2019,Food and beverages,196.14,Mandalay
+3/2/2019,Health and beauty,231.2415,Mandalay
+2/15/2019,Health and beauty,282.576,Naypyitaw
+3/1/2019,Electronic accessories,477.54,Yangon
+2/24/2019,Fashion accessories,175.917,Mandalay
+2/19/2019,Sports and travel,470.988,Mandalay
+2/23/2019,Food and beverages,308.574,Yangon
+2/7/2019,Health and beauty,618.975,Naypyitaw
+1/11/2019,Food and beverages,305.55,Yangon
+2/12/2019,Electronic accessories,41.454,Mandalay
+1/14/2019,Sports and travel,36.5505,Mandalay
+1/9/2019,Fashion accessories,310.716,Naypyitaw
+2/27/2019,Fashion accessories,45.108,Yangon
+1/24/2019,Sports and travel,145.404,Mandalay
+1/8/2019,Home and lifestyle,103.11,Mandalay
+1/8/2019,Sports and travel,136.143,Mandalay
+1/16/2019,Home and lifestyle,667.38,Yangon
+3/13/2019,Sports and travel,153.048,Naypyitaw
+2/15/2019,Food and beverages,211.365,Yangon
+1/25/2019,Sports and travel,663.2955,Naypyitaw
+3/12/2019,Food and beverages,404.544,Naypyitaw
+3/4/2019,Health and beauty,510.615,Yangon
+2/10/2019,Fashion accessories,539.343,Naypyitaw
+1/16/2019,Food and beverages,497.07,Naypyitaw
+1/29/2019,Home and lifestyle,458.6925,Yangon
+1/1/2019,Sports and travel,113.568,Yangon
+1/6/2019,Home and lifestyle,261.198,Mandalay
+2/19/2019,Electronic accessories,657.531,Yangon
+1/12/2019,Home and lifestyle,1023.75,Naypyitaw
+2/7/2019,Fashion accessories,507.444,Naypyitaw
+3/27/2019,Food and beverages,101.808,Mandalay
+2/27/2019,Fashion accessories,207.585,Mandalay
+1/6/2019,Health and beauty,760.4415,Mandalay
+3/2/2019,Home and lifestyle,835.2855,Mandalay
+3/29/2019,Health and beauty,527.5095,Mandalay
+1/31/2019,Electronic accessories,180.6,Mandalay
+1/21/2019,Food and beverages,72.429,Naypyitaw
+1/20/2019,Fashion accessories,131.208,Naypyitaw
+1/17/2019,Sports and travel,80.955,Yangon
+2/28/2019,Food and beverages,507.906,Yangon
+3/19/2019,Home and lifestyle,317.226,Naypyitaw
+2/19/2019,Electronic accessories,733.6035,Naypyitaw
+2/4/2019,Health and beauty,130.8825,Naypyitaw
+1/31/2019,Fashion accessories,829.08,Naypyitaw
+2/6/2019,Health and beauty,187.32,Yangon
+3/28/2019,Fashion accessories,525.231,Yangon
+1/19/2019,Electronic accessories,37.611,Yangon
+2/17/2019,Fashion accessories,142.947,Yangon
+1/18/2019,Fashion accessories,110.124,Mandalay
+2/2/2019,Fashion accessories,187.866,Mandalay
+1/18/2019,Sports and travel,856.4535,Naypyitaw
+3/18/2019,Home and lifestyle,138.978,Mandalay
+1/11/2019,Food and beverages,270.2595,Naypyitaw
+2/4/2019,Food and beverages,98.028,Mandalay
+2/6/2019,Health and beauty,239.4,Naypyitaw
+1/8/2019,Home and lifestyle,175.0455,Naypyitaw
+3/5/2019,Sports and travel,732.27,Mandalay
+3/16/2019,Fashion accessories,408.492,Naypyitaw
+3/9/2019,Home and lifestyle,383.523,Mandalay
+3/1/2019,Fashion accessories,93.744,Yangon
+2/28/2019,Health and beauty,176.4,Yangon
+2/8/2019,Fashion accessories,20.685,Yangon
+1/24/2019,Electronic accessories,557.718,Mandalay
+3/1/2019,Food and beverages,56.406,Mandalay
+3/10/2019,Health and beauty,860.475,Naypyitaw
+3/23/2019,Home and lifestyle,596.82,Naypyitaw
+1/29/2019,Electronic accessories,616.98,Naypyitaw
+1/12/2019,Electronic accessories,769.104,Mandalay
+3/20/2019,Home and lifestyle,887.922,Yangon
+3/23/2019,Home and lifestyle,408.7335,Naypyitaw
+1/14/2019,Food and beverages,89.0715,Naypyitaw
+2/12/2019,Sports and travel,150.423,Yangon
+2/20/2019,Home and lifestyle,79.149,Yangon
+1/2/2019,Sports and travel,266.028,Naypyitaw
+2/2/2019,Food and beverages,40.341,Naypyitaw
+1/8/2019,Fashion accessories,684.915,Mandalay
+1/30/2019,Home and lifestyle,55.2825,Naypyitaw
+3/26/2019,Home and lifestyle,116.1405,Mandalay
+1/15/2019,Health and beauty,597.0405,Naypyitaw
+3/14/2019,Fashion accessories,93.744,Mandalay
+2/3/2019,Food and beverages,143.22,Yangon
+2/22/2019,Electronic accessories,182.91,Yangon
+1/24/2019,Home and lifestyle,384.72,Mandalay
+1/25/2019,Fashion accessories,267.3405,Naypyitaw
+3/9/2019,Fashion accessories,817.236,Yangon
+2/17/2019,Electronic accessories,300.216,Mandalay
+1/11/2019,Home and lifestyle,608.076,Yangon
+2/27/2019,Food and beverages,197.925,Yangon
+3/25/2019,Food and beverages,232.638,Yangon
+2/11/2019,Food and beverages,810.6,Mandalay
+1/31/2019,Electronic accessories,757.365,Mandalay
+1/20/2019,Fashion accessories,536.592,Yangon
+3/26/2019,Health and beauty,56.1225,Yangon
+1/20/2019,Health and beauty,233.1,Yangon
+3/5/2019,Home and lifestyle,801.864,Mandalay
+1/5/2019,Fashion accessories,239.589,Naypyitaw
+2/13/2019,Sports and travel,86.247,Mandalay
+3/16/2019,Electronic accessories,401.688,Mandalay
+1/15/2019,Home and lifestyle,72.009,Yangon
+2/26/2019,Sports and travel,401.268,Mandalay
+2/27/2019,Health and beauty,631.1445,Naypyitaw
+2/17/2019,Sports and travel,499.7265,Naypyitaw
+2/6/2019,Food and beverages,55.041,Naypyitaw
+1/17/2019,Food and beverages,137.865,Naypyitaw
+1/22/2019,Food and beverages,151.515,Mandalay
+3/5/2019,Health and beauty,480.0285,Naypyitaw
+1/3/2019,Sports and travel,98.049,Mandalay
+3/20/2019,Sports and travel,132.5625,Naypyitaw
+1/31/2019,Electronic accessories,830.3715,Mandalay
+2/19/2019,Health and beauty,183.12,Naypyitaw
+2/11/2019,Sports and travel,397.992,Yangon
+2/5/2019,Fashion accessories,32.151,Yangon
+3/3/2019,Home and lifestyle,369.684,Naypyitaw
+2/24/2019,Health and beauty,53.34,Naypyitaw
+2/4/2019,Electronic accessories,548.163,Yangon
+2/19/2019,Electronic accessories,603.876,Naypyitaw
+1/23/2019,Health and beauty,57.6975,Naypyitaw
+1/14/2019,Health and beauty,190.4805,Naypyitaw
+1/17/2019,Sports and travel,432.9885,Yangon
+3/3/2019,Fashion accessories,48.7305,Yangon
+2/15/2019,Health and beauty,287.91,Naypyitaw
+1/15/2019,Home and lifestyle,1022.385,Mandalay
+2/27/2019,Electronic accessories,680.61,Yangon
+2/26/2019,Electronic accessories,97.881,Yangon
+3/15/2019,Fashion accessories,57.078,Mandalay
+1/24/2019,Home and lifestyle,63.9135,Naypyitaw
+2/22/2019,Sports and travel,257.145,Yangon
+3/15/2019,Health and beauty,97.419,Mandalay
+2/11/2019,Home and lifestyle,455.1225,Naypyitaw
+1/12/2019,Sports and travel,144.963,Mandalay
+3/3/2019,Electronic accessories,253.68,Naypyitaw
+3/23/2019,Fashion accessories,495.3165,Naypyitaw
+3/4/2019,Fashion accessories,462.672,Yangon
+2/23/2019,Electronic accessories,714.3255,Mandalay
+3/17/2019,Home and lifestyle,325.374,Yangon
+1/16/2019,Sports and travel,195.678,Yangon
+1/8/2019,Electronic accessories,210.966,Yangon
+1/14/2019,Health and beauty,18.6375,Mandalay
+1/31/2019,Fashion accessories,652.89,Naypyitaw
+3/15/2019,Health and beauty,90.3,Mandalay
+2/24/2019,Electronic accessories,422.73,Yangon
+2/8/2019,Sports and travel,341.0925,Naypyitaw
+3/22/2019,Electronic accessories,99.9075,Yangon
+1/24/2019,Electronic accessories,408.408,Yangon
+3/14/2019,Food and beverages,446.964,Mandalay
+1/23/2019,Fashion accessories,333.984,Naypyitaw
+1/19/2019,Food and beverages,284.592,Yangon
+1/27/2019,Health and beauty,403.872,Mandalay
+2/3/2019,Food and beverages,247.59,Mandalay
+3/25/2019,Electronic accessories,222.138,Mandalay
+2/24/2019,Home and lifestyle,100.128,Yangon
+2/7/2019,Sports and travel,10.6785,Naypyitaw
+3/4/2019,Health and beauty,216.4365,Yangon
+2/14/2019,Sports and travel,441.588,Mandalay
+1/29/2019,Sports and travel,92.442,Yangon
+1/28/2019,Health and beauty,681.4395,Mandalay
+3/26/2019,Fashion accessories,130.032,Yangon
+3/24/2019,Electronic accessories,681.975,Naypyitaw
+1/1/2019,Electronic accessories,779.31,Yangon
+1/24/2019,Electronic accessories,88.704,Yangon
+2/25/2019,Health and beauty,262.794,Mandalay
+1/9/2019,Sports and travel,99.54,Mandalay
+2/14/2019,Health and beauty,95.865,Yangon
+3/12/2019,Home and lifestyle,299.3655,Mandalay
+3/26/2019,Fashion accessories,54.999,Yangon
+1/9/2019,Fashion accessories,202.335,Yangon
+1/2/2019,Sports and travel,281.169,Mandalay
+1/15/2019,Electronic accessories,586.635,Naypyitaw
+1/1/2019,Sports and travel,184.086,Naypyitaw
+2/15/2019,Fashion accessories,163.611,Yangon
+2/28/2019,Electronic accessories,63.315,Mandalay
+3/2/2019,Sports and travel,82.887,Yangon
+2/13/2019,Food and beverages,31.227,Naypyitaw
+1/26/2019,Fashion accessories,22.386,Yangon
+1/30/2019,Electronic accessories,295.407,Yangon
+1/27/2019,Electronic accessories,76.923,Yangon
+1/30/2019,Sports and travel,23.499,Naypyitaw
+1/8/2019,Food and beverages,688.716,Naypyitaw
+1/19/2019,Fashion accessories,624.33,Yangon
+1/25/2019,Fashion accessories,77.805,Yangon
+2/19/2019,Fashion accessories,206.808,Yangon
+1/14/2019,Health and beauty,390.9465,Naypyitaw
+2/25/2019,Electronic accessories,554.295,Mandalay
+1/23/2019,Health and beauty,503.7375,Yangon
+2/16/2019,Fashion accessories,345.0195,Mandalay
+1/1/2019,Food and beverages,177.408,Mandalay
+3/7/2019,Home and lifestyle,118.902,Yangon
+2/15/2019,Health and beauty,362.817,Mandalay
+1/23/2019,Food and beverages,450.1035,Yangon
+2/20/2019,Home and lifestyle,90.5835,Naypyitaw
+1/8/2019,Sports and travel,26.796,Yangon
+3/17/2019,Home and lifestyle,106.596,Mandalay
+1/12/2019,Home and lifestyle,375.3645,Mandalay
+1/8/2019,Electronic accessories,250.7085,Yangon
+1/26/2019,Health and beauty,106.5015,Naypyitaw
+3/15/2019,Sports and travel,760.452,Mandalay
+1/17/2019,Health and beauty,131.922,Naypyitaw
+1/8/2019,Food and beverages,76.5765,Naypyitaw
+1/6/2019,Sports and travel,271.278,Yangon
+2/16/2019,Food and beverages,182.427,Yangon
+3/13/2019,Fashion accessories,59.325,Naypyitaw
+1/28/2019,Electronic accessories,225.015,Mandalay
+1/18/2019,Sports and travel,561.078,Yangon
+3/19/2019,Home and lifestyle,97.818,Yangon
+3/15/2019,Home and lifestyle,548.184,Naypyitaw
+2/12/2019,Fashion accessories,54.9675,Naypyitaw
+2/25/2019,Electronic accessories,41.7375,Mandalay
+3/21/2019,Electronic accessories,756.168,Yangon
+1/19/2019,Electronic accessories,101.64,Mandalay
+1/8/2019,Food and beverages,348.705,Mandalay
+3/30/2019,Fashion accessories,85.512,Naypyitaw
+2/20/2019,Sports and travel,335.895,Mandalay
+3/30/2019,Home and lifestyle,216.846,Yangon
+3/19/2019,Food and beverages,175.014,Yangon
+1/13/2019,Sports and travel,335.013,Yangon
+2/5/2019,Food and beverages,92.295,Yangon
+3/23/2019,Electronic accessories,771.435,Yangon
+3/13/2019,Fashion accessories,102.396,Naypyitaw
+3/17/2019,Sports and travel,807.66,Yangon
+2/21/2019,Health and beauty,439.215,Naypyitaw
+2/7/2019,Electronic accessories,486.444,Mandalay
+3/2/2019,Fashion accessories,485.5725,Naypyitaw
+3/6/2019,Electronic accessories,148.995,Mandalay
+2/6/2019,Electronic accessories,317.835,Mandalay
+1/28/2019,Health and beauty,832.944,Mandalay
+1/18/2019,Fashion accessories,446.439,Naypyitaw
+2/5/2019,Food and beverages,297.801,Naypyitaw
+3/2/2019,Health and beauty,629.16,Naypyitaw
+2/9/2019,Food and beverages,331.128,Yangon
+1/14/2019,Electronic accessories,423.738,Naypyitaw
+2/9/2019,Home and lifestyle,193.074,Mandalay
+3/26/2019,Health and beauty,145.5825,Yangon
+1/28/2019,Food and beverages,84.7455,Yangon
+2/14/2019,Health and beauty,122.472,Naypyitaw
+3/24/2019,Home and lifestyle,329.196,Naypyitaw
+2/9/2019,Health and beauty,888.405,Naypyitaw
+3/24/2019,Health and beauty,435.12,Mandalay
+3/27/2019,Food and beverages,167.034,Yangon
+1/27/2019,Home and lifestyle,514.605,Mandalay
+3/27/2019,Food and beverages,91.8225,Mandalay
+1/19/2019,Electronic accessories,235.746,Naypyitaw
+2/7/2019,Home and lifestyle,782.208,Yangon
+1/31/2019,Fashion accessories,431.256,Yangon
+2/25/2019,Food and beverages,313.74,Yangon
+2/2/2019,Electronic accessories,223.587,Naypyitaw
+3/14/2019,Sports and travel,44.9925,Naypyitaw
+3/11/2019,Fashion accessories,397.614,Yangon
+2/22/2019,Home and lifestyle,217.2555,Mandalay
+3/2/2019,Electronic accessories,82.719,Mandalay
+3/10/2019,Home and lifestyle,338.2155,Naypyitaw
+2/8/2019,Home and lifestyle,103.131,Mandalay
+2/22/2019,Home and lifestyle,26.733,Naypyitaw
+1/10/2019,Sports and travel,611.079,Naypyitaw
+3/14/2019,Sports and travel,221.886,Naypyitaw
+1/10/2019,Electronic accessories,57.876,Mandalay
+2/15/2019,Sports and travel,92.7255,Mandalay
+1/13/2019,Health and beauty,374.409,Yangon
+2/15/2019,Electronic accessories,833.9625,Mandalay
+3/2/2019,Sports and travel,53.151,Mandalay
+3/24/2019,Home and lifestyle,629.496,Mandalay
+2/2/2019,Fashion accessories,175.035,Naypyitaw
+2/27/2019,Food and beverages,781.62,Yangon
+1/20/2019,Health and beauty,470.988,Naypyitaw
+1/3/2019,Home and lifestyle,397.845,Mandalay
+1/24/2019,Home and lifestyle,270.018,Naypyitaw
+1/5/2019,Health and beauty,579.8415,Naypyitaw
+3/30/2019,Sports and travel,469.77,Yangon
+2/17/2019,Health and beauty,290.0835,Yangon
+3/21/2019,Food and beverages,360.927,Naypyitaw
+3/2/2019,Food and beverages,279.384,Yangon
+3/27/2019,Fashion accessories,943.299,Naypyitaw
+1/19/2019,Home and lifestyle,479.64,Yangon
+2/19/2019,Health and beauty,266.6475,Yangon
+3/28/2019,Health and beauty,74.088,Yangon
+1/5/2019,Electronic accessories,690.018,Yangon
+3/26/2019,Electronic accessories,176.925,Naypyitaw
+2/3/2019,Fashion accessories,56.469,Mandalay
+2/6/2019,Home and lifestyle,188.0025,Naypyitaw
+2/24/2019,Food and beverages,222.012,Mandalay
+2/21/2019,Health and beauty,125.7165,Mandalay
+1/9/2019,Home and lifestyle,68.985,Mandalay
+2/25/2019,Food and beverages,263.97,Mandalay
+1/13/2019,Food and beverages,88.368,Naypyitaw
+2/9/2019,Home and lifestyle,415.233,Mandalay
+1/6/2019,Fashion accessories,312.8895,Yangon
+1/10/2019,Food and beverages,477.1305,Naypyitaw
+2/7/2019,Electronic accessories,289.926,Mandalay
+1/9/2019,Home and lifestyle,165.9,Naypyitaw
+2/19/2019,Food and beverages,932.337,Yangon
+3/18/2019,Fashion accessories,96.579,Naypyitaw
+2/5/2019,Electronic accessories,43.869,Yangon
+3/19/2019,Fashion accessories,16.275,Yangon
+3/30/2019,Electronic accessories,304.983,Naypyitaw
+1/26/2019,Food and beverages,69.993,Mandalay
+3/2/2019,Electronic accessories,80.367,Mandalay
+3/4/2019,Home and lifestyle,314.685,Yangon
+1/13/2019,Home and lifestyle,255.1815,Yangon
+3/25/2019,Health and beauty,49.77,Yangon
+3/11/2019,Electronic accessories,181.0725,Mandalay
+1/1/2019,Food and beverages,888.615,Mandalay
+2/10/2019,Home and lifestyle,271.2885,Mandalay
+1/26/2019,Electronic accessories,640.038,Mandalay
+2/11/2019,Home and lifestyle,252.252,Yangon
+2/7/2019,Fashion accessories,180.873,Naypyitaw
+3/6/2019,Fashion accessories,104.832,Mandalay
+3/4/2019,Food and beverages,313.572,Yangon
+2/26/2019,Food and beverages,167.58,Mandalay
+3/10/2019,Electronic accessories,26.7225,Mandalay
+2/4/2019,Food and beverages,71.1585,Mandalay
+1/19/2019,Food and beverages,250.278,Naypyitaw
+1/23/2019,Health and beauty,244.23,Yangon
+3/14/2019,Sports and travel,921.186,Yangon
+1/23/2019,Health and beauty,734.706,Naypyitaw
+1/9/2019,Electronic accessories,708.3195,Naypyitaw
+2/7/2019,Fashion accessories,334.4775,Mandalay
+2/18/2019,Health and beauty,30.996,Mandalay
+1/3/2019,Health and beauty,520.8,Mandalay
+3/29/2019,Electronic accessories,864.57,Naypyitaw
+1/28/2019,Health and beauty,633.108,Mandalay
+3/22/2019,Food and beverages,296.94,Yangon
+1/24/2019,Sports and travel,804.3,Mandalay
+3/10/2019,Electronic accessories,121.863,Yangon
+2/22/2019,Fashion accessories,183.645,Mandalay
+2/18/2019,Electronic accessories,63.9975,Naypyitaw
+1/29/2019,Health and beauty,42.3675,Naypyitaw
+3/2/2019,Home and lifestyle,1022.49,Mandalay
+2/9/2019,Food and beverages,33.432,Yangon
+2/22/2019,Home and lifestyle,69.111,Yangon
+2/18/2019,Fashion accessories,649.299,Yangon

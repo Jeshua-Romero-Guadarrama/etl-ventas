@@ -1,0 +1,4 @@
+# Autor: Jeshua Romero Guadarrama
+# Dependencias de ejecucion (runtime) del ETL de ventas.
+# Solo lo estrictamente necesario para correr el pipeline en produccion.
+pandas==2.2.2

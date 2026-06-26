@@ -1,0 +1,4 @@
+# Autor: Jeshua Romero Guadarrama
+# Normalizacion de fin de linea: el repositorio guarda LF de forma consistente,
+# sin importar si se trabaja desde Windows, Linux o macOS.
+* text=auto eol=lf

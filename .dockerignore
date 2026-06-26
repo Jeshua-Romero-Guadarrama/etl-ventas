@@ -1,0 +1,13 @@
+# Autor: Jeshua Romero Guadarrama
+# Archivos que NO deben entrar al contexto de build de Docker.
+# Asi la imagen queda limpia y la construccion es mas rapida.
+
+.venv/
+.git/
+.gitignore
+output/
+reports/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+README.md

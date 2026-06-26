@@ -1,0 +1,15 @@
+# Autor: Jeshua Romero Guadarrama
+# Exclusiones del repositorio del ETL de ventas.
+
+# Entorno virtual de Python
+.venv/
+
+# Resultados generados por el pipeline (no se versionan)
+output/
+
+# Cache de compilacion de Python
+__pycache__/
+*.py[cod]
+
+# Cache de herramientas de pruebas
+.pytest_cache/
