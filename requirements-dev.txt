@@ -2,4 +2,4 @@
 # Dependencias de desarrollo y CI del ETL de ventas.
 # Hereda el runtime y agrega las herramientas de pruebas.
 -r requirements.txt
-pytest==8.2.0
+pytest==9.0.3
